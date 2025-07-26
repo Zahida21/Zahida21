@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <video src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.mp4" height="150" autoplay loop muted playsinline></video>
 </div>
 
 ###
