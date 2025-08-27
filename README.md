@@ -51,7 +51,7 @@
 
 ### 📫 Let’s Connect
 
-- Portfolio: **https://zahida21.github.io/zahidaportfolio/**
+- Portfolio: **https://zahidaportfolio.vercel.app/**
 - Email: **fathimathzahida21@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/fathimath-zahida-98695a254/**
 
