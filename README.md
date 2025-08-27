@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zahida21.github.io/zahidaportfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"></a>
+  <a href="https://zahidaportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/fathimath-zahida-98695a254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:fathimathzahida21@gmail.com"><img src="https://img.shields.io/badge/Email-Me-DB4437?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
